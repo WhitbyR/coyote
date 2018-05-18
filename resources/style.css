@@ -1,0 +1,36 @@
+.header {
+  background-image: url("/Users/edwardwhitby/Documents/coyote/resources/levi-saunders-3066-unsplash.jpg");
+  border: 10px solid;
+  text-align: center;
+  font-size: 75px;
+  font-family: sans-serif;
+  color: tan;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-blend-mode: normal;
+}
+body {
+
+
+
+}
+.history {
+  border: tan 5px solid;
+  margin: 10px;
+  text-align: center;
+  font-size: 20px;
+}
+.western {
+  margin: 10px;
+  border: tan 5px solid;
+  text-align: center;
+  font-size: 20px;
+}
+.eastern {
+  margin: 10px;
+  border: tan 5px solid;
+  text-align: center;
+  font-size: 20px;
+
+}
